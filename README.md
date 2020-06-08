@@ -11,6 +11,7 @@ Learning Java ...
   - [Type of Variables and Naming](variables/src/JavaVariables.java)
 * [Arrays](arrays)
   - [Creating, Initializing, and Accessing an Array](arrays/src/JavaArrays.java)
+  - [Multidimentional Array](arrays/src/JavaMultidimArrays.java)
   
 
 ## Contributing
