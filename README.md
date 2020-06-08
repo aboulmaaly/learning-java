@@ -7,6 +7,8 @@ Learning Java ...
 
 * [Introduction](introduction)
   - [hello world](introduction/)
+* [Arrays](arrays)
+  - [Creating, Initializing, and Accessing an Array](arrays/src/JavaArrays.java)
   
 
 ## Contributing
