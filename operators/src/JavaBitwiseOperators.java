@@ -25,6 +25,7 @@
  * The bitwise | operator performs a bitwise inclusive OR operation.
  *
  * Operators : ~, <<, >>, >>>, &, ^, |
+ * 
  **/
 public class JavaBitwiseOperators {
 
