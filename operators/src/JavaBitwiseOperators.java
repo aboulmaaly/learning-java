@@ -27,7 +27,7 @@
  * Operators : ~, <<, >>, >>>, &, ^, |
  **/
 public class JavaBitwiseOperators {
-    
+
     public static void main(String[] args) {
 
         int x = 5;  // binary : 0101
