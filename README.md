@@ -12,6 +12,7 @@ Learning Java ...
 * [Operators](operators)
   - [The simple assignment operator](operators/src/JavaAssignmentOperator.java)
   - [The arithmetic operators](operators/src/JavaArithmeticOperators.java)
+  - [The unary operators](operators/src/JavaUnaryOperators.java)
 * [Arrays](arrays)
   - [Creating, Initializing, and Accessing an Array](arrays/src/JavaArrays.java)
   - [Copy from an array to another](arrays/src/JavaCopyFromTo.java)
