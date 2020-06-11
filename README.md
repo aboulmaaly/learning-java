@@ -20,4 +20,10 @@ Learning Java ...
   - [Creating, Initializing, and Accessing an Array](arrays/src/JavaArrays.java)
   - [Copy from an array to another](arrays/src/JavaCopyFromTo.java)
   - [Multidimentional Array](arrays/src/JavaMultidimArrays.java)
-  
+* [Control Flow](control-flow)
+  - [The if and if else statements](control-flow/src/JavaIfElse.java)
+  - [The switch statement](control-flow/src/JavaSwitch.java)
+  - [The while and do while statement](control-flow/src/JavaWhileDo.java)
+  - [The for statement](control-flow/src/JavaFor.java)
+  - [The break statement](control-flow/src/JavaBreak.java)
+  - [The continue statement](control-flow/src/JavaContinue.java)
